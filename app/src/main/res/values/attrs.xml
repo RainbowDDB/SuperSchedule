@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TitleToolbar">
+        <attr name="title" format="string" />
+        <attr name="titleColor" format="color" />
+        <attr name="menu" format="reference" />
+        <attr name="navigationIcon" format="reference"/>
+    </declare-styleable>
+
+    <attr name="month_view" format="string" /><!--自定义月视图路径-->
+    <attr name="week_view" format="string" /> <!--自定义周视图路径-->
+</resources>
